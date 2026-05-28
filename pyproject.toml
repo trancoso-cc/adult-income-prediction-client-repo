@@ -1,0 +1,12 @@
+[project]
+name = "adult-income-prediction-client"
+version = "0.1.0"
+description = "Inference client for the adult-binary-classifier-1 Azure ML deployment"
+requires-python = ">=3.10"
+dependencies = [
+    "requests>=2.31.0",
+    "python-dotenv>=1.0.0",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
