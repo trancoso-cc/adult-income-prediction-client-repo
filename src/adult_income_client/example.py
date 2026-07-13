@@ -2,7 +2,7 @@
 
 Usage:
     cp .env.example .env       # fill in AZURE_ML_API_KEY
-    python -m adult_income_client.example
+    python -m adult_income_client.example 
 
 Targets the `adultbinaryservice` Azure ML web service.
 """
