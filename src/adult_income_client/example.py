@@ -1,4 +1,4 @@
-"""Runnable example: score one record against the Azure ML web service. test
+"""Runnable example: score one record against the Azure ML web service.
 
 Usage:
     cp .env.example .env       # fill in AZURE_ML_API_KEY
